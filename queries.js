@@ -8,13 +8,15 @@ const pool = new Pool({
   port: 5432,
 })
 
-const getKecamatans = (request, response) => {
+
+const getKecamatans = (request, res) => {
     pool.query('SELECT * FROM kecamatan ORDER BY id ASC', (error, results) => {
       if (error) {
         throw error
       }
-      // response.status(200).json(results.rows)
-      response.send(results)
+      res.header("Access-Control-Allow-Origin", "*")
+      res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept")
+      response(200, results.rows, "get data", res)
     })
   }
 
