@@ -1,3 +1,4 @@
+const response = require('./response')
 const Pool = require('pg').Pool
 const pool = new Pool({
   user: 'postgres',
@@ -12,7 +13,8 @@ const getKecamatans = (request, response) => {
       if (error) {
         throw error
       }
-      response.status(200).json(results.rows)
+      // response.status(200).json(results.rows)
+      response.send(results)
     })
   }
 
