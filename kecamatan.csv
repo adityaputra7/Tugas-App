@@ -1,29 +1,29 @@
-nama_kecamatan,jumlah_kelurahan,jumlah_desa,desc,path
-Kecamatan Balen,0,23,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Baureno,0,25,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Bojonegoro,11,7,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Bubulan,0,5,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Kalitidu,0,18,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Gondang,0,7,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Dander,0,16,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Kanor,0,25,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Kapas,0,21,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Kasiman,0,10,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Kedewan,0,5,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Kedungadem,0,23,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Kepohbaru,0,25,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Malo,0,20,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Margomulyo,0,6,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Ngambon,0,5,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Ngasem,0,17,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Ngraho,0,16,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Padangan,0,16,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Purwosari,0,12,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Temayang,0,12,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Trucuk,0,12,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Tambakrejo,0,18,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Gayam,0,12,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Sumberrejo,0,26,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Sukosewu,0,14,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Sugihwaras,0,17,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
-Kecamatan Sekar,0,6,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png
+nama_kecamatan,jumlah_kelurahan,jumlah_desa,description,path,luas_wilayah,jumlah_penduduk,alamat,email,telp
+Kecamatan Balen,0,23,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,46,56322,Jalan Raya Balen nomor 56 Balen Bojonegoro Jawa Timur 62182,kecamatanbalen@gmail.com,(0353) 331829
+Kecamatan Baureno,0,25,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,66.37,79849,Jl. Raya Baureno Nomor :152 Kab.Bojonegoro 62192,baureno@bojonegorokab.go.id,(0322) 453539
+Kecamatan Bojonegoro,11,7,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,25.56,23727,Jl. Pemuda Timur Kadipaten Kec. Bojonegoro Kabupaten Bojonegoro Jawa Timur 62111,-,62353881770
+Kecamatan Bubulan,0,5,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,84.73,13028,Kecamatan Bubulan Jln. Raya Bubulan No. 116,kecamatanbubulan1@gmail.com,62125908135
+Kecamatan Kalitidu,0,18,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,63.36,55470,Jalan Raya Kalitidu Nomor 139,,(0353) 511255
+Kecamatan Gondang,0,7,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,107.01,27533,Jl. Raya Gondang No 21 Kecamatan Gondang Kabupaten Bojonegoro 62173,kec.gondang26@gmail.com,
+Kecamatan Dander,0,16,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,118.36,90448,Jalan Raya Dander - Temayang No.53 62171,,(0353) 882342
+Kecamatan Kanor,0,25,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,59.78,65943,Jalan Raya Kanor Nomor 01 Kanor Bojonegoro 62193,kec.kanor@gmail.com,(0353) 331468
+Kecamatan Kapas,0,21,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,46.38,55329,Jl. Ahmad Yani No. 37 tikusan kapas Kab Bojonegoro Provinsi Jawa timur 62181,,
+Kecamatan Kasiman,0,10,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,51.8,34375,Jl. Diponegoro No.14 Batokan- Bojonegoro 62164,,(0353) 531031
+Kecamatan Kedewan,0,5,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,56.51,14641,Jl. Raya Kedewan No. 30 Kecamatan Kedewan Kab. Bojonegoro 62164,,
+Kecamatan Kedungadem,0,23,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,145.15,90253,Jl.GAJAH MADA NO 813 KEDUNGADEM 62195,,
+Kecamatan Kepohbaru,0,25,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,79.64,71525,Jl. Raya Kepohbaru Nomor 268 Kecamatan Kepohbaru Kabupaten Bojonegoro Provinsi Jawa Timur 621924,,
+Kecamatan Malo,0,20,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,65.41,34746,Jl. Brawijaya No. 277 Malo Bojonegoro 811245,kecamatanmalo@gmail.com,(0353) 887023
+Kecamatan Margomulyo,0,6,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,139.68,25539,Jl. A. Yani Nomor 16 Margomulyo Kabupaten Bojonegoro 62168,,(0351) 748458
+Kecamatan Ngambon,0,5,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,48.65,13219,Jl. DIPONEGORO NO.402 NGAMBON 62167,kantorkecamatanngambon@gmail.com,6.28136E+12
+Kecamatan Ngasem,0,17,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,147.21,68284,Jl. Raya Ngasem - Kalitidu 62154,,(0353) 7710155
+Kecamatan Ngraho,0,16,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,71.49,51512,JL. Ahmad Yani no. 119 62165,kantorkecamatanngraho@gmail.com,(0353) 591075
+Kecamatan Padangan,0,16,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,42,56411,Jl. Ahmad Yani NO. 80 Padangan Bojonegoro 62162,,(0353) 5215027
+Kecamatan Purwosari,0,12,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,62.32,33484,l. Serobo No. 586A Desa Purwosari Kec. Purwosari Kab. Bojonegoro 62161,purwosari@bojonegorokab.go.id,(0353) 551027
+Kecamatan Temayang,0,12,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,124.67,40654,Jl. Basuki Rahmat No.312 Temayang 83653,,
+Kecamatan Trucuk,0,12,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,36.71,39645,Jl. Raya Sumberejo Kentong Kec. Trucuk Kab. Bojonegoro 62155,,
+Kecamatan Tambakrejo,0,18,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,209.52,60755,Jl. Raya Tambakrejo No. 1 Kab Bojonegoro Provinsi JawaTimur 62166,,
+Kecamatan Gayam,0,12,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,50,35823,l. Raya Gayam no 01 Kecamatan Gayam Kabupaten Bojonegoro 62156,kecamatangayam@yahoo.co.id,6.28124E+12
+Kecamatan Sumberrejo,0,26,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,"77,944",77944,Jl. Sikatan Nomor 333 62191,sumberrejo@mail.com,(0353) 331007
+Kecamatan Sukosewu,0,14,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,47.48,47165,Jl. Raya Sukosewu No. 18 Desa Sukosewu Kec. Sukosewu Kab. Bojonegoro 62185,sukosewu@bojonegorokab.go.id,
+Kecamatan Sugihwaras,0,17,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,87.15,51453,Jl. Raya 739 Sugihwaras Jawa Timur 62183,,
+Kecamatan Sekar,0,6,Ini Adalah Kecamatan,https://cdn.discordapp.com/attachments/1055785082960494702/1106214826230939698/image_detail.png,130.24,30179,Jl. Raya Sekar No 12 SEKAR BOJONEGORO 62167,sekar@bojonegorokab.go.id,6.28226E+12
