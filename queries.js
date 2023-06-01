@@ -2,9 +2,9 @@ const response = require('./response')
 const Pool = require('pg').Pool
 const pool = new Pool({
   user: 'postgres',
-  host: 'localhost',
+  host: '35.185.142.13',//GCP
   database: 'db_bojonegoro',
-  password: '123',
+  password: 'asokowe123',
   port: 5432,
 })
 
